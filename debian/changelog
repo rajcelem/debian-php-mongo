@@ -1,0 +1,6 @@
+php-mongo (1.2.9-1) unstable; urgency=low
+
+  * Initial Release (Closes: #660141).
+
+ -- Rajmund Zawislak <rajcelem@urantia.pl>  Sun, 26 Feb 2012 20:07:44 +0100
+

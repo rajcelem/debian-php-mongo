@@ -1,0 +1,7 @@
+php-mongo for Debian
+--------------------------
+
+This extension has been created with dh-make-pecl which is part
+of dh-make-php.
+
+ -- Rajmund Zawislak <rajcelem@urantia.pl>, Sun, 12 Feb 2012 17:07:44 +0100
